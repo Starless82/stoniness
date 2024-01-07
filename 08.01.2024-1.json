@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Cunningham",
+    "age": 17,
+    "address": {
+        "street": "Robin Ranch",
+        "city": "Garciamouth",
+        "state": "Georgia",
+        "zip": "17904"
+    },
+    "contact": {
+        "phone": "(330)647-1472",
+        "servicePhone": "800087626"
+    },
+    "birthday": "2008-22-07",
+    "ip": "205.194.67.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact through consumer. First his rule various. International exist major whether as behind. Throw election week realize peace be sea.",
+        "bio": "Subject edge director break off. Pattern than rather walk. Painting choose church image term mission method recent."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
