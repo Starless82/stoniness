@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Roberts",
+    "age": 99,
+    "address": {
+        "street": "Bowers Radial",
+        "city": "Julietown",
+        "state": "Washington",
+        "zip": "94866"
+    },
+    "contact": {
+        "phone": "+1-897-438-7499",
+        "servicePhone": "800725309"
+    },
+    "birthday": "1926-21-02",
+    "ip": "187.162.92.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Although material admit specific indeed rich north. With official drive way design late hear.\nFederal indicate one data.\nIf include evidence dream view. Security show computer.",
+        "bio": "Quality age style yes be sit.\nPer hospital art health story attention. Front for feeling couple occur. Make fill wall three prove would.\nBlue raise minute local. Foot parent follow trip expert."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
