@@ -1,0 +1,25 @@
+{
+    "name": "Madison Yoder",
+    "age": 106,
+    "address": {
+        "street": "Shelly Mews",
+        "city": "Bergshire",
+        "state": "Georgia",
+        "zip": "71619"
+    },
+    "contact": {
+        "phone": "565.611.5926x4365",
+        "servicePhone": "800267476"
+    },
+    "birthday": "1919-04-07",
+    "ip": "41.184.74.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag above amount continue people collection within. Congress while positive grow many could agent. Style know enter seven hundred each.\nBehind together set home increase here data.",
+        "bio": "Mouth everything mean. They professor firm main production big hear. Data rest suddenly white political center present.\nMagazine conference phone fill. Lose claim when."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
