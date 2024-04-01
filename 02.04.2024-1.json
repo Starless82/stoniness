@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Knapp",
+    "age": 70,
+    "address": {
+        "street": "Mccann Common",
+        "city": "Bauerchester",
+        "state": "Tennessee",
+        "zip": "64477"
+    },
+    "contact": {
+        "phone": "524-691-0789",
+        "servicePhone": "800785334"
+    },
+    "birthday": "1955-21-09",
+    "ip": "112.126.131.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare physical economy head. High investment yes usually.\nCitizen up occur usually finally choose with page. Common second expert our almost base middle any. Least from skin quite decade.",
+        "bio": "Full position line practice order significant. Whether get responsibility building base have. Firm catch artist system."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
