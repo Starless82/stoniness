@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Mary Houston",
+    "age": 15,
+    "address": {
+        "street": "Costa Squares",
+        "city": "New Jamesbury",
+        "state": "North Dakota",
+        "zip": "78261"
+    },
+    "contact": {
+        "phone": "7172025145",
+        "servicePhone": "800811800"
+    },
+    "birthday": "2010-29-10",
+    "ip": "209.127.103.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Government involve body model kitchen hotel ability much. Strategy arrive product then.",
+        "bio": "Hospital away field industry. Itself market point.\nOil factor action unit. Subject need guy effort. Late few dog ten crime floor stuff."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
