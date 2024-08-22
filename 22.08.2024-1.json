@@ -1,0 +1,25 @@
+{
+    "name": "Carl Bowman",
+    "age": 62,
+    "address": {
+        "street": "Brooks Springs",
+        "city": "Harttown",
+        "state": "Alaska",
+        "zip": "31934"
+    },
+    "contact": {
+        "phone": "6573817778",
+        "servicePhone": "800841685"
+    },
+    "birthday": "1963-27-11",
+    "ip": "67.137.121.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive consumer buy life condition now himself. Difference expert final create decision. Past food start really right yet.\nMind stand every entire.\nEat trade pattern glass fund. Would lose clearly.",
+        "bio": "Instead and case action institution truth. Public miss even leader win thing city."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
