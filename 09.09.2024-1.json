@@ -1,0 +1,25 @@
+{
+    "name": "Victor Harris",
+    "age": 98,
+    "address": {
+        "street": "Johnson Drives",
+        "city": "Port Emilychester",
+        "state": "Washington",
+        "zip": "48006"
+    },
+    "contact": {
+        "phone": "(734)397-3659",
+        "servicePhone": "800422575"
+    },
+    "birthday": "1927-28-08",
+    "ip": "126.101.80.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer political weight film without growth seek item. Response store politics a white. Team put turn little this best.",
+        "bio": "Test mention affect sing drive general. Strategy radio analysis knowledge happen plan. Operation go early civil attorney.\nFinal finish song. Side goal although modern certain others."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
