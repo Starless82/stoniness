@@ -1,0 +1,25 @@
+{
+    "name": "Roy Aguirre",
+    "age": 36,
+    "address": {
+        "street": "Bryce Locks",
+        "city": "North Pamelaberg",
+        "state": "Rhode Island",
+        "zip": "52953"
+    },
+    "contact": {
+        "phone": "(328)854-6419x9879",
+        "servicePhone": "800243316"
+    },
+    "birthday": "1989-01-07",
+    "ip": "182.131.39.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead seem short card note involve how growth. Born page assume cold indicate which. Effect matter treatment camera decision generation put discuss.",
+        "bio": "Interesting sense laugh base attention next good. Among smile among. Person away than itself environmental eat. Design return see election simple."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
