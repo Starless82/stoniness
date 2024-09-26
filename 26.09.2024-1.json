@@ -1,0 +1,25 @@
+{
+    "name": "Cory Fletcher",
+    "age": 19,
+    "address": {
+        "street": "Bryan Hollow",
+        "city": "North Carrie",
+        "state": "Hawaii",
+        "zip": "56418"
+    },
+    "contact": {
+        "phone": "(376)241-3570x757",
+        "servicePhone": "800322160"
+    },
+    "birthday": "2006-05-11",
+    "ip": "103.135.237.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern himself thus expert authority interesting want vote. Group half detail ago provide put send throw.",
+        "bio": "Man enjoy play various face because wonder. Chair its from war. Page fly eight need affect recently. Wall home ahead pass nature.\nResource article instead difficult small. Fear whom those dream in."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
