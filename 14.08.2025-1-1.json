@@ -1,0 +1,25 @@
+{
+    "name": "Amy Smith",
+    "age": 4,
+    "address": {
+        "street": "Richard Keys",
+        "city": "Louiston",
+        "state": "Montana",
+        "zip": "22263"
+    },
+    "contact": {
+        "phone": "001-915-863-6476",
+        "servicePhone": "800843382"
+    },
+    "birthday": "2021-16-07",
+    "ip": "185.229.55.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Too song machine skill. Current later view test together traditional.\nCar source appear Democrat. Economy usually strategy bad son pay. Artist need experience to leader officer country.",
+        "bio": "Education investment training. Near sure religious. Including analysis work.\nQuite ground community high gas better network. Cup maintain myself hair agent north."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
