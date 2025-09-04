@@ -1,0 +1,25 @@
+{
+    "name": "Donna Gonzales",
+    "age": 67,
+    "address": {
+        "street": "Hernandez Pike",
+        "city": "South Joshua",
+        "state": "Kansas",
+        "zip": "36646"
+    },
+    "contact": {
+        "phone": "001-942-368-8881x872",
+        "servicePhone": "800554935"
+    },
+    "birthday": "1958-03-07",
+    "ip": "112.3.137.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast author officer into party. Daughter represent detail point yeah when.\nAge middle measure despite.",
+        "bio": "Thing individual result rest dog space. Serve house write inside scientist movie degree size. Fire out quickly."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
