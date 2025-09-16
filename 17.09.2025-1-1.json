@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Levine",
+    "age": 49,
+    "address": {
+        "street": "Melissa Drive",
+        "city": "West Jillborough",
+        "state": "Idaho",
+        "zip": "93781"
+    },
+    "contact": {
+        "phone": "359.362.4555x6725",
+        "servicePhone": "800001474"
+    },
+    "birthday": "1976-15-02",
+    "ip": "186.176.112.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Local leg their quickly look traditional system. Media hot place. Life it gun continue necessary what chance.",
+        "bio": "Kitchen on enter newspaper. By station necessary on try must use. Card happy who eight around into agree."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
