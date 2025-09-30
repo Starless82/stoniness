@@ -1,0 +1,25 @@
+{
+    "name": "Amy Cole",
+    "age": 49,
+    "address": {
+        "street": "White Isle",
+        "city": "Lake Donaldview",
+        "state": "South Carolina",
+        "zip": "76800"
+    },
+    "contact": {
+        "phone": "(351)949-5013",
+        "servicePhone": "800041250"
+    },
+    "birthday": "1976-24-01",
+    "ip": "15.226.205.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Result explain fish professor eye. Environmental quality seat public just tonight interview. Until research affect drop.",
+        "bio": "Military employee again lawyer every success long. Road cell knowledge now listen bed art."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
