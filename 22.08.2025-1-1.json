@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Wagner",
+    "age": 86,
+    "address": {
+        "street": "Ray Points",
+        "city": "Butlerview",
+        "state": "Virginia",
+        "zip": "70338"
+    },
+    "contact": {
+        "phone": "382.665.1554x91531",
+        "servicePhone": "800956190"
+    },
+    "birthday": "1939-13-03",
+    "ip": "10.33.66.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Get factor skin threat decide analysis. Drop future year author though four present.",
+        "bio": "See entire conference ready.\nMagazine real alone cup much whether everyone event. By main design organization leave age sure future."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
