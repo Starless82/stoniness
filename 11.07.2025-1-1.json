@@ -1,0 +1,25 @@
+{
+    "name": "Brian Smith",
+    "age": 29,
+    "address": {
+        "street": "Smith Inlet",
+        "city": "North Heather",
+        "state": "Tennessee",
+        "zip": "74598"
+    },
+    "contact": {
+        "phone": "(663)968-9197",
+        "servicePhone": "800036167"
+    },
+    "birthday": "1996-24-07",
+    "ip": "5.60.175.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor interest show year. Summer manage color pattern eye.\nDrug probably spend threat least former. Address occur with always begin energy. Certain together end nation court.",
+        "bio": "Always lawyer candidate road when lawyer. Imagine couple staff age church. Couple husband concern under speech chair. Protect usually write local."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
