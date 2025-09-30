@@ -1,0 +1,25 @@
+{
+    "name": "Scott Dalton",
+    "age": 76,
+    "address": {
+        "street": "Riley Trafficway",
+        "city": "Charlestown",
+        "state": "Alaska",
+        "zip": "91131"
+    },
+    "contact": {
+        "phone": "+1-720-407-3005x3799",
+        "servicePhone": "800247805"
+    },
+    "birthday": "1949-17-08",
+    "ip": "52.226.78.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Fill head particularly such travel best crime. Hold next simple able simple.",
+        "bio": "Challenge him contain soldier. Her be imagine begin former.\nWhy yourself over along expert. Hot stay blue history energy plant. Collection course enjoy center start."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

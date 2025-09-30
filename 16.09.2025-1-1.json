@@ -1,0 +1,25 @@
+{
+    "name": "Adrian Clark",
+    "age": 98,
+    "address": {
+        "street": "Joshua Groves",
+        "city": "Michaelside",
+        "state": "New York",
+        "zip": "79743"
+    },
+    "contact": {
+        "phone": "+1-783-271-6373",
+        "servicePhone": "800360665"
+    },
+    "birthday": "1927-21-08",
+    "ip": "119.111.137.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Green white stuff indicate lead stop pay cold. Make computer offer. Kid building record do.",
+        "bio": "Want hope religious single him. Full century radio chair really pretty where.\nDaughter perhaps draw water behind."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}

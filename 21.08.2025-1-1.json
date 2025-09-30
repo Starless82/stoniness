@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Thompson",
+    "age": 37,
+    "address": {
+        "street": "Long Pike",
+        "city": "South Audreybury",
+        "state": "Michigan",
+        "zip": "32381"
+    },
+    "contact": {
+        "phone": "(284)979-5429x393",
+        "servicePhone": "800192175"
+    },
+    "birthday": "1988-24-01",
+    "ip": "219.69.208.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Join hour key nearly street. Your threat order citizen someone your. Born well soon effect soldier.",
+        "bio": "Check instead want figure catch market. Front magazine enter author form after say."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
