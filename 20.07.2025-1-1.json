@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Torres",
+    "age": 2,
+    "address": {
+        "street": "Jordan Road",
+        "city": "New Thomas",
+        "state": "South Dakota",
+        "zip": "93779"
+    },
+    "contact": {
+        "phone": "(818)906-9055",
+        "servicePhone": "800289638"
+    },
+    "birthday": "2023-17-10",
+    "ip": "6.11.17.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight wall feeling experience look low. Baby phone year traditional nor someone how. Eight deal hair lot.\nOnto area out through. Million race on tax adult eat finally.",
+        "bio": "Perhaps spring television student. Official tree prevent various second author training.\nGroup throw soldier. Whatever current gun across hospital serve budget."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

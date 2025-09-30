@@ -1,0 +1,25 @@
+{
+    "name": "James Owen",
+    "age": 113,
+    "address": {
+        "street": "Edgar Way",
+        "city": "Theodoreside",
+        "state": "Rhode Island",
+        "zip": "53990"
+    },
+    "contact": {
+        "phone": "852.468.1542",
+        "servicePhone": "800460498"
+    },
+    "birthday": "1912-23-01",
+    "ip": "187.31.10.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign reduce the enough who. Behind both political then PM. Defense the it.\nRead describe very cup how drug. Deep happy bed off woman.\nStop movie pass car reality. Carry three whatever beat.",
+        "bio": "Shoulder military where involve record.\nMe cut seek entire. Perhaps enough cost green inside church. Audience field if moment sort soon research. Case let since someone many work."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
