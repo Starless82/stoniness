@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sharp",
+    "age": 111,
+    "address": {
+        "street": "Walters Lake",
+        "city": "Kristopherton",
+        "state": "Missouri",
+        "zip": "37917"
+    },
+    "contact": {
+        "phone": "+1-874-301-2031x9623",
+        "servicePhone": "800686589"
+    },
+    "birthday": "1914-17-12",
+    "ip": "14.219.25.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion maintain move claim movie no. Voice off behavior modern skill. Onto detail forward receive soldier Democrat.",
+        "bio": "Our crime participant. So white agent economy shake per and. Last they door against tough unit environmental.\nNear study open green. Assume we yet leg. Watch ball medical floor training best."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
