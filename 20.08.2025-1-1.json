@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Torres",
+    "age": 75,
+    "address": {
+        "street": "Salazar Loaf",
+        "city": "New Connor",
+        "state": "Mississippi",
+        "zip": "29507"
+    },
+    "contact": {
+        "phone": "366.989.2709",
+        "servicePhone": "800539557"
+    },
+    "birthday": "1950-15-01",
+    "ip": "50.78.128.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone too half measure. Structure weight government at.\nMoment must alone president go wife. Difficult church on present.",
+        "bio": "Team final this fly man pay. Just almost affect sign.\nManagement open story bank. Position collection authority writer finish may game. Attack apply why democratic low about."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
