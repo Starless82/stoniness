@@ -1,0 +1,25 @@
+{
+    "name": "Emily Sullivan",
+    "age": 0,
+    "address": {
+        "street": "Wyatt Fields",
+        "city": "West Karen",
+        "state": "Missouri",
+        "zip": "27464"
+    },
+    "contact": {
+        "phone": "717-926-7438x0594",
+        "servicePhone": "800949992"
+    },
+    "birthday": "2025-17-01",
+    "ip": "168.22.249.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Me good white. Shoulder system wife my series out.\nReal push culture significant trip city along. New beautiful believe goal when ability voice.",
+        "bio": "Whole issue serious despite number sing. Father write environment defense sign debate society foreign. Debate moment evidence natural.\nSouthern smile offer ahead measure."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Allen",
+    "age": 65,
+    "address": {
+        "street": "Conley Square",
+        "city": "East Christopher",
+        "state": "Kentucky",
+        "zip": "52338"
+    },
+    "contact": {
+        "phone": "633-842-3292x44434",
+        "servicePhone": "800725411"
+    },
+    "birthday": "1960-18-12",
+    "ip": "86.116.144.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought level coach prevent. Cover same develop history hundred kind realize dream. Short wind into lay building year.",
+        "bio": "Professor laugh represent clearly to money energy. Hundred either think suddenly too. Involve threat side wait sense resource although."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
