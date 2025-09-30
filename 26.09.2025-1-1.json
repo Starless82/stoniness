@@ -1,0 +1,25 @@
+{
+    "name": "Brian Durham",
+    "age": 46,
+    "address": {
+        "street": "Villa Highway",
+        "city": "Lake Alison",
+        "state": "Ohio",
+        "zip": "26920"
+    },
+    "contact": {
+        "phone": "940.844.0669x6095",
+        "servicePhone": "800316884"
+    },
+    "birthday": "1979-14-09",
+    "ip": "155.168.253.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight part newspaper enough PM garden TV. Cold its probably.\nRight program he car involve difference. Rather traditional high team hand impact.\nTown now whom. Chair later once step.",
+        "bio": "Theory whole early physical. Us senior least first decade nor possible. Nation huge wait nature Republican about wide must.\nBoy attention history quality figure should. To economy oil."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Mccarthy",
+    "age": 40,
+    "address": {
+        "street": "Krista Manors",
+        "city": "North Joannestad",
+        "state": "Louisiana",
+        "zip": "06332"
+    },
+    "contact": {
+        "phone": "260.947.6631",
+        "servicePhone": "800121750"
+    },
+    "birthday": "1985-17-07",
+    "ip": "54.116.100.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Often live front front left popular institution. Yes purpose computer they adult too.",
+        "bio": "With security dark question animal until say real. Need account help across affect serious.\nOver writer design return."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
