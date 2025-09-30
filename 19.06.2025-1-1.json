@@ -1,0 +1,25 @@
+{
+    "name": "Beth Smith",
+    "age": 13,
+    "address": {
+        "street": "Christy Glen",
+        "city": "West Linda",
+        "state": "Kentucky",
+        "zip": "07220"
+    },
+    "contact": {
+        "phone": "891-353-1376x108",
+        "servicePhone": "800256071"
+    },
+    "birthday": "2012-16-04",
+    "ip": "208.159.20.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet near land experience line seat they. Wrong rock bring stage single live I.\nAround simple avoid performance. Short career take cultural onto star.\nStructure cover probably eat.",
+        "bio": "Window hard mother many. Dog thought position sister.\nForeign start history behind. Material truth doctor agreement add work."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
